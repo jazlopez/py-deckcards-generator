@@ -1,4 +1,23 @@
 # py-deckcards-generator
+
+<b>A note from the owner of this repository:</b>
+
+The original purpose  of this program was to be able to parse a set of definitions and create study cards you can sort by subject, study level and other categories I just can't remember now.
+
+Since it has been two years now from the original intent of create this project and because it has been without any updates whatsoever I have decided to look around to another place and stop temporary this project. I want to explore places I know it would be easy to create study cards such as quiznet or some api that I prob. would take advantage from.
+
+Until the aforemention take place this repository would be inactive and will get back once I have a better plan for this project.
+
+If you want to be in touch please open an issue and I will get back to you as soon as possible.
+
+Thank you, will see you all around soon.
+
+### MAINTAINER
+
+Jaziel Lopez
+2022, Q2 
+
+<strike>
 Generate deck cards from parsed files
 
 #### 1. REQUIREMENTS
@@ -46,3 +65,4 @@ Jaziel Lopez github.com/jazlopez
            |___/_|_| |_| |_| .__/|_|\___| |_|___/ |_.__/ \___|\__|\__\___|_|
                            | |
 ```
+</strike>
